@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://santoshgameshop.github.io/santosh-gameshop/sitemap.xml
